@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://himanshu12145.github.io/portfolio/)
+[![Site preview](/public/social-images.png)](https://himanshu12145.github.io/portfolio/)
 
 ## Table of Contents
 
