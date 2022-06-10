@@ -14,19 +14,6 @@
 
 [![Site preview](/public/social-images.png)](https://himanshu12145.github.io/portfolio/)
 
-## Table of Contents
-
-- [Technology Stack 🛠️](#technology-stack-)
-- [Structure ⚓](#structure-)
-- [Sharing 💗](#sharing-)
-- [Prerequisites 🍪](#prerequisites-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
-
 ## Technology Stack 🛠️
 
 Dependencies defined in package.json:
