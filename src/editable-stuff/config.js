@@ -56,7 +56,7 @@ const about = {
   message:
     "My name is Himanshu Shekhar Sahoo. I like building things. I’m a undergraduate student from Odisha University of Technology and Research at Bhubaneswar, India pursuing a B.Tech degree in Electronics and Instrumentation Engineering. In my free time I like reading technology related blogs. I'm quietly confident, naturally curious, and perpetually working on improving my chops on Software Engineering domain .",
   resume:
-    "https://drive.google.com/file/d/1tsoJlxd_9SkpVQ6rshsQuNDQH3I7JIV6/view?usp=sharing",
+    "https://drive.google.com/file/d/1qGrGtLHThcg2MEMyTvzs7Et1h7o6fug0/view?usp=sharing",
 }
 
 // PROJECTS SECTION
